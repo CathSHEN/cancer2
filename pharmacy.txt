@@ -1,0 +1,130 @@
+ACICLOVIR Tablet 400mg
+ADCAL D3 Chewable tablet
+ADCAL D3 Effervescent tablet
+ALEMTUZUMAB Injection 30mg in 1ml
+ALFACALCIDOL Capsule 0.25micrograms
+ALLOPURINOL Tablet 300mg
+AMITRIPTYLINE Syrup 50mg in 5ml S.F.
+AMLODIPINE Tablet 10mg
+AMLODIPINE Tablet 5mg
+AMPHOTERICIN Injection 50mg
+ANTITHYMOCYTE IMMUNOGLOBULIN Injection 250mg in 5ml
+ASPIRIN Dispersible tablet 75mg (28)
+ATORVASTATIN Tablet 10mg
+ATORVASTATIN Tablet 40mg
+BENZYDAMINE Mouthwash 0.15%
+BISOPROLOL Tablet 1.25mg
+BISOPROLOL Tablet 2.5mg
+BONJELA Gel
+BUDESONIDE Turbohaler 100microgram/dose
+CALCIUM Chewable tablet 500mg
+CALCIUM PHOSPHATE Mouthwash
+CANESTEN HC Cream
+CARBOPLATIN Infusion 450mg in 545ml
+CARBOPLATIN Infusion 650mg in 565ml
+CARBOPLATIN Injection 450mg
+CEFTAZIDIME Injection 1.5g in 15ml
+CHLORHEXIDINE Mouthwash 0.2% (Mint)
+CHLORPHENAMINE Tablet 4mg
+CICLOSPORIN Capsule 100mg
+CICLOSPORIN Capsule 25mg
+CICLOSPORIN Capsule 50mg
+CIPROFLOXACIN Tablet 250mg
+CIPROFLOXACIN Tablet 500mg
+CIPROFLOXACIN Tablet 750mg
+CLARITHROMYCIN Injection 500mg
+CLINDAMYCIN Capsule 150mg
+CLINDAMYCIN Injection 600mg in 4ml
+CLOPIDOGREL Tablet 75mg
+CLOTRIMAZOLE Pessary 500mg
+CO-AMOXICLAV Tablet 500/125
+CODEINE PHOSPHATE Tablet 30mg
+CYCLIZINE Tablet 50mg
+CYCLOPHOSPHAMIDE Infusion 1000mg in 100ml
+CYCLOPHOSPHAMIDE Infusion 1100mg in 100ml
+CYCLOPHOSPHAMIDE Infusion 500mg in 125ml
+CYCLOPHOSPHAMIDE Infusion 800mg in 100ml
+CYCLOPHOSPHAMIDE Injection 1g
+DERMOL 500 Lotion
+DEXAMETHASONE Tablet 2mg
+DOCETAXEL Injection 140mg in 7ml
+DOCETAXEL Injection 80mg in 4ml + DOCETAXEL Injection 20mg in 1ml
+DOCUSATE SODIUM Syrup 50mg in 5ml
+DOMPERIDONE Tablet 10mg
+DOXYCYCLINE Capsule 100mg
+DOXYCYCLINE Dispersible tablet 100mg
+ENOPEN Cream (500g)
+EPIRUBICIN Injection 40mg in 20ml
+EPIRUBICIN Injection 40mg in 20ml + EPIRUBICIN Injection 50mg i
+EPIRUBICIN Injection 50mg in 25ml
+EPIRUBICIN Injection 50mg in 25ml + EPIRUBICIN Injection 80mg i
+EPIRUBICIN Injection 50mg/25ml (solution
+EPIRUBICIN Injection 60mg in 30ml
+EPIRUBICIN Injection 60mg in 30ml + EPIRUBICIN Injection 40mg i
+EPIRUBICIN Injection 60mg in 30ml + EPIRUBICIN Injection 70mg i
+EPIRUBICIN Injection 70mg in 35ml
+EPIRUBICIN Injection 70mg in 35ml + EPIRUBICIN Injection 50mg i
+EPIRUBICIN Injection 70mg in 35ml + EPIRUBICIN Injection 60mg i
+EPIRUBICIN Injection 80mg in 40ml
+EPIRUBICIN Injection 80mg in 40ml + EPIRUBICIN Injection 50mg i
+EPIRUBICIN Injection 80mg in 40ml + EPIRUBICIN Injection 70mg i
+FERROUS SULPHATE Tablet 200mg (28)
+FILGRASTIM (Zarzio) Injection 30million units
+FLUCLOXACILLIN Capsule 500mg
+FLUCONAZOLE Capsule 200mg
+FLUCONAZOLE Capsule 50mg
+FLUCONAZOLE Suspension 50mg in 5ml
+FLUDARABINE Injection 50mg in 2ml
+FLUOROURACIL Infusion 1000mg in 100ml
+FLUOROURACIL Infusion 550mg in 100ml
+FLUOROURACIL Infusion 750mg in 100ml
+FLUOROURACIL Injection 2.5g in 50ml
+GABApenTIN Capsule 300mg
+GANCICLOVIR Injection 475mg in 119ml
+GANCICLOVIR Injection 500mg
+GEMCITABINE Infusion 1400mg in 250ml
+GEMCITABINE Injection 1g
+GEMCITABINE Injection 1g + GEMCITABINE Injection 200mg
+GOSERELIN Injection 3.6mg
+IBUPROFEN Tablet 200mg (24)
+LAMOTRIGINE Tablet 25mg
+LANSOPRAZOLE Capsule 30mg
+LANSOPRAZOLE Dispersible tablet 30mg
+LANTHANUM Powder 750mg
+LIDOCAINE Plaster 5%
+LORAZEPAM Tablet 1mg
+MACROGOL COMPOUND Oral Powder Paediatric Plain
+MAGNESIUM OXIDE Capsule 140mg
+MENADIOL SODIUM DIPHOSPHATE Tablet 10mg
+MOMETASONE FUROATE Nasal spray 50micrograms/spray
+MOMETASONE FUROATE Ointment 30g
+NORETHISTERONE Tablet 5mg
+NYSTATIN Suspension 100 000u/ml
+ONDANSETRON Tablet 4mg
+ONDANSETRON Tablet 8mg
+OSELTAMIVIR Capsule 30mg
+OSELTAMIVIR Capsule 75mg
+OXCARBAZEPINE Tablet 300mg
+PACLITAXEL Device
+PACLITAXEL Infusion 130mg in 250ml
+PACLITAXEL Infusion 150mg in 250ml
+PACLITAXEL Injection 100mg + PACLITAXEL Injection 30mg in 5ml
+PACLITAXEL Injection 30mg in 5ml
+PARACETAMOL Soluble tablet 500mg (24)
+PARACETAMOL Suspension 250mg in 5ml S.F.
+PARACETAMOL Tablet 500mg (32)
+PEPTAC Liquid
+PHENOXYMETHYLPENICILLIN Tablet 250mg
+PHENYTOIN Capsule 100mg
+PREDNISOLONE Tablet 5mg
+PREGABALIN Capsule 100mg
+PREGABALIN Capsule 300mg
+RAMIPRIL Capsule 2.5mg
+RENAVIT tablets
+SODIUM BICARBONATE Capsule 500mg
+SYNTHETIC SALIVA Spray
+TAMOXIFEN Tablet 10mg
+TAMOXIFEN Tablet 20mg
+TRASTUZUMAB  Injection 600mg in 5ml
+TRASTUZUMAB Injection 150mg
+VALGANCICLOVIR Tablet 450mg
